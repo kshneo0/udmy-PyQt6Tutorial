@@ -4,7 +4,7 @@ from PyQt6.QtGui import QIcon, QFont
 import sys
 
 
-class  Window(QWidget):
+class Window(QWidget):
     def __init__(self):
         super().__init__()
 
